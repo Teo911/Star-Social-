@@ -1,2 +1,2 @@
-# Star-Social-
+# StarSocial
 Social Media site for multiple users
